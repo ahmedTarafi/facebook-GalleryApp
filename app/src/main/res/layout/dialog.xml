@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/DialogContainerStyle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="500dp"
+    android:minWidth="500dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageViewfs"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
